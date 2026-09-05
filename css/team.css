@@ -31,3 +31,16 @@
   letter-spacing: 0.02em;
   color: #434455;
 }
+.team-list {
+  display: flex;
+  gap: 24px;
+  justify-content: center;
+}
+.team-list {
+  display: flex;
+  gap: 24px;
+}
+
+.team-item {
+  width: calc((100% - 72px) / 4);
+}
