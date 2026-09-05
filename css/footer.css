@@ -18,3 +18,16 @@
   letter-spacing: 0.02em;
   color: #f4f4fd;
 }
+.footer {
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.footer .logo {
+  display: inline-block;
+  margin-bottom: 16px;
+}
+
+.footer-text {
+  max-width: 264px;
+}
